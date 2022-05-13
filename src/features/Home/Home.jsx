@@ -30,7 +30,7 @@ const Home = () => {
 
   const handleLogout = () => {
     window.localStorage.clear();
-    window.location.reload();
+    navigate("/");
   };
   
   return (

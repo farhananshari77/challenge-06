@@ -17,7 +17,7 @@ const Dashboard = () => {
 
   const handleLogout = () => {
     window.localStorage.clear();
-    window.location.reload();
+    navigate("/");
   };
 
   return (
