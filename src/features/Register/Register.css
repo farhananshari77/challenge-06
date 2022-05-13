@@ -1,0 +1,12 @@
+.font-title {
+    font-family: 'Helvetica'; font-style: normal; font-weight: 700; font-size: 24px; line-height: 36px;
+  }
+  .font-word {
+    font-family: 'Helvetica'; font-style: normal; font-weight: 300; font-size: 14px; line-height: 20px;
+  }
+  .submit-btn {
+    background-color: #0D28A6; padding: 8px 12px; font-family: 'Helvetica'; font-style: normal; font-weight: 700; font-size: 14px; line-height: 20px;
+  }
+  .google-btn {
+    background-color: #A9A9A9; padding: 8px 12px; font-family: 'Helvetica'; font-style: normal; font-weight: 700; font-size: 14px; line-height: 20px;
+  }

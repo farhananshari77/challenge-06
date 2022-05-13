@@ -1,0 +1,53 @@
+.header-nav{
+    background: #F1F3FF;
+  }
+  .font-nav{
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+    color: #000000;
+    text-decoration: none;
+  }
+  .font-sewa{
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 150%;
+  }
+  .font-p{
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .font-best{
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+  }
+  .bg-rectangle{
+    background: #0D28A6;
+    border-radius: 13px;
+  }
+  .color-btn-green{
+    background-color: #5CB85F;
+  }
+  .font-nav-ft{
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+    text-decoration: none;
+  }
+  .main-height{
+    height: 200px;
+  }

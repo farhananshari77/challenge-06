@@ -1,0 +1,37 @@
+.font-sidebar{
+    font-family: 'Helvetica'; font-style: normal; font-weight: 700; font-size: 14px; line-height: 20px;
+}
+.font-source{
+    font-family: 'Helvetica'; font-style: normal; font-size: 12px; line-height: 18px;
+}
+.font-title{
+    font-family: 'Helvetica'; font-style: normal; font-weight: 700; font-size: 20px; line-height: 30px; color: #000000;
+}
+.input-icons i {
+    position: absolute;
+}
+  
+.input-icons {
+    width: 100%; margin-bottom: 10px;
+}
+  
+.icon {
+    padding: 10px; min-width: 40px;
+}
+  
+.input-field {
+    width: 100%; padding: 10px; padding-left: 40px;
+}
+.font-search
+{
+    font-family: 'Helvetica'; font-style: normal; font-weight: 700; font-size: 14px; line-height: 20px;
+}
+.bg-blue{
+    background-color: #0D28A6;
+}
+.size-input{
+    width: 180px; height: 36px;
+}
+.bg-dashboard{
+    height:40px; background-color: #CFD4ED; 
+}
